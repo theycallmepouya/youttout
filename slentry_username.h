@@ -1,0 +1,1 @@
+char* slentry_username ( char* user_entry );

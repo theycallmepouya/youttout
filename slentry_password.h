@@ -1,0 +1,1 @@
+char* slentry_password ( char* user_entry );

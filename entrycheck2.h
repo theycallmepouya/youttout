@@ -1,0 +1,1 @@
+int entrycheck2 ( char* userentry );

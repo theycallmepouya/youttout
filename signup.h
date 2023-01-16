@@ -1,0 +1,1 @@
+int signup ( char* username , char* password , user* head );
